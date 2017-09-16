@@ -23,11 +23,11 @@ Technologies
 EXPERIENCE
 ---------------
 
-** .Net Developer and Co-Founder**, *Arcadia Business Solutions* Mar 2005 - Mar 2008
+* **.Net Developer and Co-Founder**, *Arcadia Business Solutions*, Mar 2005 - Mar 2008
  - Working on architecture, design, develop and implementation. From December 2007 work on maintenance and developing additional features requested by customers.
  - Arcadia Financial Suite 1.2 – Enterprise Resource Planning, developing and implementation on various clients: SC Aerostar S.A. Bacau (Boeing Aircraft Maintenance Division), TAR (building construction tools), etc. Architecture build on .Net 3.0 Framework and WWF. Backend on Postgresql 8.2 or Oracle 10g. Directly responsible for modules: Order, Marketing, Human Resources, Stock, Party (Customer Relationship Management).
 
-** .Net Developer **, *Business Process Engineering* Feb 04 – April 05
+* **.Net Developer **, *Business Process Engineering*, Feb 04 – April 05
   - Workflow Engine developed using Microsoft.Net and C#. Fully compatible with specification from Workflow Management Coalition (http://www.wfmc.org)
   - Web Apps and services for Financial Companies: document and flow management, integration with mainframe IBM S/390 using IBM MQSeries 5.3.
 
