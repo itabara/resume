@@ -37,26 +37,26 @@ EDUCATION
 =========
 
 - Faculty of Informatics, **“Al. I. Cuza” University Iasi**,
-** Master's Degree **,
-** Software Engineering **,
-** 2007 - 2009 **
+**Master's Degree**,
+**Software Engineering**,
+**2007 - 2009**
 
 - Faculty of Automatic Control and Computer Engineering, **"Gh. Asachi" Technical University of Iaşi**,
-** Engineer’s Degree **,
-** Computer Science **,
-** 1999 – 2004**
+**Engineer’s Degree**,
+**Computer Science**,
+**1999 – 2004**
 
 Accomplishments
 ========
 
 #### Courses
 
-    ** M101JS: MongoDB for Node.js Developers **
-    ** M101JS: MongoDB for Node.js Developers **
+    - M101JS: MongoDB for Node.js Developers
+    - M102: MongoDB for DBAs
 
 #### Certification
-    ** Situational Leadership®: Building Leaders **
+    - Situational Leadership®: Building Leaders
 
 #### Language
-    ** English
-    ** Romanian
+    - English
+    - Romanian
