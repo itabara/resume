@@ -1,6 +1,6 @@
 Iulian Tabara - Head of Software Development
 ---------------
-iulian.tabara@gmail.com | [github.com/itabara](http://github.com/itabara) | [medium.com/@iulitab](http://medium.com/@iulitab) |
+iulian.tabara@gmail.com | [github.com/itabara](http://github.com/itabara) | 
 [linkedin.com/iuliantabara](http://ro.linkedin.com/pub/iulian-tab%C4%83r%C4%83/a/122/39b)
 
 Career Summary
